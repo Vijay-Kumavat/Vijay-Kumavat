@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-* 💬 Ask me about Android,Firebase and Python.
+* 💬 Ask me about Python and Frontend part.
 * 💻 I'm a self-taught learner.
 * 🔭 I’m currently working on Python, JavaScript and DotNet.
 * 🎓 I'm a Computer Engineer (graduating in May 2022)
