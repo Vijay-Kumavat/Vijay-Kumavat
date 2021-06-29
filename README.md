@@ -8,12 +8,13 @@
 
 ## 📖 About me
 
-* 💬 Ask me about Python and Frontend part.
+* ✨ Prime
+* 💬 Ask me about .NET, SQL Server and jQuery.
 * 💻 I'm a self-taught learner.
-* 🔭 I’m currently working on Python, JavaScript and DotNet.
-* 🎓 I'm a Computer Engineer (graduating in May 2022)
-* 🌐 You can see some of my projects on [my github](https://github.com/Kumavat-Vijay?tab=repositories)
-* ⚡ Fun fact : The Learning Never Stops
+* 🔭 I’m currently working on ASP.NET Core, SQL Server and jQuery.
+* 🎓 I'm a Computer Engineer (graduating in july 2021).
+* 🌐 You can see some of my projects on [my github](https://github.com/Kumavat-Vijay?tab=repositories).
+* ⚡ Fun fact : The Learning Never Stops.
 
 <br>
 
