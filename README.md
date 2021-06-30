@@ -13,17 +13,17 @@
 * 💻 I'm a self-taught learner.
 * 🔭 I’m currently working on ASP.NET Core, SQL Server and jQuery.
 * 🎓 I'm a Computer Engineer (graduating in july 2021).
-* 🌐 You can see some of my projects on [my github](https://github.com/Kumavat-Vijay?tab=repositories).
+* 🌐 You can see some of my projects on [my github](https://github.com/Vijay-Kumavat?tab=repositories).
 * ⚡ Fun fact : The Learning Never Stops.
 
 <br>
 
 ## ✨ Repos:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kumavat-Vijay&repo=Gecianbot)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kumavat-Vijay&repo=Twitter.Tweepy.Bot)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kumavat-Vijay&repo=Next_Step)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kumavat-Vijay&repo=BuyUcoin.Task)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijay-Kumavat&repo=Gecianbot)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijay-Kumavat&repo=Twitter.Tweepy.Bot)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijay-Kumavat&repo=Next_Step)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijay-Kumavat&repo=BuyUcoin.Task)
 
 <br>
 
@@ -95,7 +95,7 @@
 ## 📈 Github Stats
 
 
-<a href="https://github.com/Kumavat-Vijay/github-readme-stats"><img alt="Kumavat-Vijay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kumavat-Vijay&show_icons=true&count_private=true&hide=" /></a>
+<a href="https://github.com/Vijay-Kumavat/github-readme-stats"><img alt="Vijay-Kumavat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vijay-Kumavat&show_icons=true&count_private=true&hide=" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumavat-Vijay&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-Kumavat&layout=compact)
 
